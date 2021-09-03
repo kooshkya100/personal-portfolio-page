@@ -275,10 +275,7 @@ footer a:hover {
     --neon-color: rgb(157, 211, 255);
     text-shadow: 0 0 7px #fff,
     0 0 10px #fff,
-    0 0 21px #fff,
-    0 0 82px var(--neon-color),
-    0 0 92px var(--neon-color),
-    0 0 102px var(--neon-color);
+    0 0 21px #fff;
     transform: scale(1.05);
 }
 
