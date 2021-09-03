@@ -272,7 +272,6 @@ footer a:hover i {
 }
 
 footer a:hover {
-    --neon-color: rgb(157, 211, 255);
     text-shadow: 0 0 7px #fff,
     0 0 10px #fff,
     0 0 21px #fff;
